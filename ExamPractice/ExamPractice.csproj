@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="WinUI\" />
+      <Folder Include="WinUI\25FirstExam\" />
     </ItemGroup>
 
 </Project>

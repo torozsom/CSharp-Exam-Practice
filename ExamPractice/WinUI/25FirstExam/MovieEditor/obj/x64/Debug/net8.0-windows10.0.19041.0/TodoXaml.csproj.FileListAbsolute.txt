@@ -1,0 +1,156 @@
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.exe
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\App.xbf
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Views\MainPage.xbf
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.deps.json
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.runtimeconfig.json
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.pdb
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\resources.pri
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\AppxManifest.xml
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Web.WebView2.Core.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.WinUI.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.Management.Deployment.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.Storage.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.System.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\runtimes\win-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\runtimes\win-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\runtimes\win-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Web.WebView2.Core.Projection.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.csproj.AssemblyReference.cache
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\App.g.i.cs
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\App.g.cs
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.g.i.cs
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.g.cs
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\Views\MainPage.g.i.cs
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\Views\MainPage.g.cs
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\XamlTypeInfo.g.cs
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\App.xaml
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xaml
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\Views\MainPage.xaml
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\App.xbf
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\Views\MainPage.xbf
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\XamlSaveStateFile.xml
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.AssemblyInfoInputs.cache
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.AssemblyInfo.cs
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.csproj.CoreCompileInputs.cache
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.sourcelink.json
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.csproj.Up2Date
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\refint\TodoXaml.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.pdb
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.genruntimeconfig.cache
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\ref\TodoXaml.dll
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\priconfig.xml
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\priconfig.xml.intermediate
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\unfiltered.layout.resfiles
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\unfiltered.layout.resfiles.intermediate
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\filtered.layout.resfiles
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\filtered.layout.resfiles.intermediate
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\excluded.layout.resfiles
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\excluded.layout.resfiles.intermediate
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\resources.resfiles
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\resources.resfiles.intermediate
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\pri.resfiles
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\pri.resfiles.intermediate
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\qualifiers.txt
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\qualifiers.txt.intermediate
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\MultipleQualifiersPerDimensionFound.txt
+C:\Users\toron\Desktop\BME\4th semester\szoftech\hazi3-2025-torozsom\TodoXaml\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\ProjectArchitectures.txt
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\runtimes\win-x64\native\WebView2Loader.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.exe
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\App.xbf
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Views\MainPage.xbf
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.deps.json
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.runtimeconfig.json
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.pdb
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\resources.pri
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\AppxManifest.xml
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Web.WebView2.Core.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.InteractiveExperiences.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.WinUI.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.Management.Deployment.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.Storage.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.System.Power.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.System.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.Widgets.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\runtimes\win-x86\native\WebView2Loader.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\runtimes\win-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\runtimes\win-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\runtimes\win-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\Microsoft.Web.WebView2.Core.Projection.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.csproj.AssemblyReference.cache
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\App.g.i.cs
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\App.g.cs
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.g.i.cs
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.g.cs
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\Views\MainPage.g.i.cs
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\Views\MainPage.g.cs
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\XamlTypeInfo.g.cs
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\App.xaml
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xaml
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\Views\MainPage.xaml
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\App.xbf
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\Views\MainPage.xbf
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\XamlSaveStateFile.xml
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.AssemblyInfoInputs.cache
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.AssemblyInfo.cs
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.csproj.CoreCompileInputs.cache
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.sourcelink.json
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.csproj.Up2Date
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\refint\TodoXaml.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.pdb
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\TodoXaml.genruntimeconfig.cache
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\ref\TodoXaml.dll
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\priconfig.xml
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\priconfig.xml.intermediate
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\unfiltered.layout.resfiles
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\unfiltered.layout.resfiles.intermediate
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\filtered.layout.resfiles
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\filtered.layout.resfiles.intermediate
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\excluded.layout.resfiles
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\excluded.layout.resfiles.intermediate
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\resources.resfiles
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\resources.resfiles.intermediate
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\pri.resfiles
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\pri.resfiles.intermediate
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\qualifiers.txt
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\qualifiers.txt.intermediate
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\MultipleQualifiersPerDimensionFound.txt
+C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\TodoXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\ProjectArchitectures.txt

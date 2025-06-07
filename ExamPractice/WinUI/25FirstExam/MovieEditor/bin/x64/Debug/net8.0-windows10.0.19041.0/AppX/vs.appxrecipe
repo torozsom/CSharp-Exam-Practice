@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZSOMBORSNITRO</Machine>
+    <WindowsUser>toron</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>c7d7820d-d67a-4373-a9a2-c04646862512</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Tibi</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\obj\x64\Debug\net8.0-windows10.0.19041.0\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\bin\x64\Debug\net8.0-windows10.0.19041.0\AppX</LayoutDir>
+    <RegisteredManifestChecksum>F178E8015C01310C631AA79BAF5497A71104AD1992BB5793341BAC7E8127B048</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c7d7820d-d67a-4373-a9a2-c04646862512_1.0.0.0_x64__zwjg00b7eajd6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c7d7820d-d67a-4373-a9a2-c04646862512_zwjg00b7eajd6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c7d7820d-d67a-4373-a9a2-c04646862512</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Tibi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\bin\x64\Debug\net8.0-windows10.0.19041.0\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-06-07T20:39:39.580</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\bin\x64\Debug\net8.0-windows10.0.19041.0\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2025-06-07T20:39:39.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\bin\x64\Debug\net8.0-windows10.0.19041.0\MovieEditor.runtimeconfig.json">
+      <PackagePath>MovieEditor.runtimeconfig.json</PackagePath>
+      <Modified>2025-06-07T20:39:37.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\bin\x64\Debug\net8.0-windows10.0.19041.0\MovieEditor.dll">
+      <PackagePath>MovieEditor.dll</PackagePath>
+      <Modified>2025-06-07T20:39:33.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\obj\x64\Debug\net8.0-windows10.0.19041.0\apphost.exe">
+      <PackagePath>MovieEditor.exe</PackagePath>
+      <Modified>2025-06-07T20:39:33.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.web.webview2\1.0.2651.64\runtimes\win-x64\native\WebView2Loader.dll">
+      <PackagePath>runtimes\win-x64\native\WebView2Loader.dll</PackagePath>
+      <Modified>2024-07-20T08:33:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2024-11-11T17:23:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\WinRT.Runtime.dll">
+      <PackagePath>WinRT.Runtime.dll</PackagePath>
+      <Modified>2024-11-11T17:23:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
+      <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
+      <Modified>2024-12-20T22:25:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+      <PackagePath>Microsoft.WinUI.dll</PackagePath>
+      <Modified>2025-01-08T07:10:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppLifecycle.Projection.dll</PackagePath>
+      <Modified>2025-01-08T07:10:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppNotifications.Builder.Projection.dll</PackagePath>
+      <Modified>2025-01-08T07:10:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppNotifications.Projection.dll</PackagePath>
+      <Modified>2025-01-08T07:10:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll</PackagePath>
+      <Modified>2025-01-08T07:10:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.Resources.Projection.dll</PackagePath>
+      <Modified>2025-01-08T00:59:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</PackagePath>
+      <Modified>2025-01-08T07:10:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Management.Deployment.Projection.dll">
+      <PackagePath>Microsoft.Windows.Management.Deployment.Projection.dll</PackagePath>
+      <Modified>2025-01-08T07:10:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll">
+      <PackagePath>Microsoft.Windows.PushNotifications.Projection.dll</PackagePath>
+      <Modified>2025-01-08T07:10:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Security.AccessControl.Projection.dll">
+      <PackagePath>Microsoft.Windows.Security.AccessControl.Projection.dll</PackagePath>
+      <Modified>2025-01-08T07:10:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Storage.Projection.dll">
+      <PackagePath>Microsoft.Windows.Storage.Projection.dll</PackagePath>
+      <Modified>2025-01-08T07:10:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
+      <PackagePath>Microsoft.Windows.System.Power.Projection.dll</PackagePath>
+      <Modified>2025-01-08T07:10:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll">
+      <PackagePath>Microsoft.Windows.System.Projection.dll</PackagePath>
+      <Modified>2025-01-08T07:10:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Widgets.Projection.dll">
+      <PackagePath>Microsoft.Windows.Widgets.Projection.dll</PackagePath>
+      <Modified>2024-11-01T07:17:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
+      <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+      <Modified>2025-01-08T07:10:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.web.webview2\1.0.2651.64\runtimes\win-arm64\native\WebView2Loader.dll">
+      <PackagePath>runtimes\win-arm64\native\WebView2Loader.dll</PackagePath>
+      <Modified>2024-07-20T08:33:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.web.webview2\1.0.2651.64\runtimes\win-x86\native\WebView2Loader.dll">
+      <PackagePath>runtimes\win-x86\native\WebView2Loader.dll</PackagePath>
+      <Modified>2024-07-20T08:33:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\runtimes\win-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>runtimes\win-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2025-01-08T00:59:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\runtimes\win-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>runtimes\win-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2025-01-08T00:59:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\runtimes\win-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>runtimes\win-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2025-01-08T00:59:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.web.webview2\1.0.2651.64\runtimes\win-x64\native_uap\Microsoft.Web.WebView2.Core.dll">
+      <PackagePath>Microsoft.Web.WebView2.Core.dll</PackagePath>
+      <Modified>2024-07-20T08:33:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\toron\.nuget\packages\microsoft.web.webview2\1.0.2651.64\lib_manual\net6.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.Projection.dll">
+      <PackagePath>Microsoft.Web.WebView2.Core.Projection.dll</PackagePath>
+      <Modified>2024-07-20T08:33:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\bin\x64\Debug\net8.0-windows10.0.19041.0\MovieEditor.deps.json">
+      <PackagePath>MovieEditor.deps.json</PackagePath>
+      <Modified>2025-06-07T20:39:37.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2025-03-29T12:09:14.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2025-03-29T12:09:14.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2025-03-29T12:09:14.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2025-03-29T12:09:14.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2025-03-29T12:09:14.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2025-03-29T12:09:14.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\C#\Sznikak\ExamPractice\ExamPractice\WinUI\25FirstExam\MovieEditor\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2025-03-29T12:09:14.693</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.6.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.6</Name>
+      <Version>6000.373.1641.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.6, MinVersion = 6000.373.1641.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.6.msix</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.6.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.6</Name>
+      <Version>6000.373.1641.0</Version>
+      <Architecture>win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.6, MinVersion = 6000.373.1641.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.6.msix</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.6.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.6</Name>
+      <Version>6000.373.1641.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.6, MinVersion = 6000.373.1641.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.6.msix</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.6.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.6</Name>
+      <Version>6000.373.1641.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.6, MinVersion = 6000.373.1641.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\toron\.nuget\packages\microsoft.windowsappsdk\1.6.250108002\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.6.msix</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
